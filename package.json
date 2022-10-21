@@ -1,16 +1,16 @@
 {
-"name": "ufabet356",
-"theme": "ufabet356",
-"version": "2.1.4",
-"description": "ufabet356 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
-"keywords": [
-"ufabet356",
-"ufabet356 เครดิตฟรี",
-"ufabet356 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ufabet356",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ufabet356",
+  "theme": "ufabet356",
+  "version": "2.2.0",
+  "description": "ufabet356 ทางเข้าหลักเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกเครดิตฟรี",
+  "keywords": [
+    "ufabet356",
+    "ufabet356 เครดิตฟรี",
+    "ufabet356 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ufabet356",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
